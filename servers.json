@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "B custom",
+      "address": "https://anisette-v3-server-h17p.onrender.com/"
+    }
+  ]
+}
